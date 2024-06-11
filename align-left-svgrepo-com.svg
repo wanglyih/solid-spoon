@@ -1,6 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M15 5L9.5 5C8.56538 5 8.09808 5 7.75 5.20096C7.52197 5.33261 7.33261 5.52197 7.20096 5.75C7 6.09808 7 6.56538 7 7.5C7 8.43462 7 8.90192 7.20096 9.25C7.33261 9.47803 7.52197 9.66739 7.75 9.79904C8.09808 10 8.56538 10 9.5 10L18.5 10C19.4346 10 19.9019 10 20.25 9.79904C20.478 9.66739 20.6674 9.47803 20.799 9.25C21 8.90192 21 8.43462 21 7.5C21 6.56538 21 6.09808 20.799 5.75C20.6674 5.52197 20.478 5.33261 20.25 5.20096C19.9704 5.03954 19.6139 5.00778 19 5.00153" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M7 16.5C7 15.5654 7 15.0981 7.20096 14.75C7.33261 14.522 7.52197 14.3326 7.75 14.201C8.09808 14 8.56538 14 9.5 14H15.5C16.4346 14 16.9019 14 17.25 14.201C17.478 14.3326 17.6674 14.522 17.799 14.75C18 15.0981 18 15.5654 18 16.5C18 17.4346 18 17.9019 17.799 18.25C17.6674 18.478 17.478 18.6674 17.25 18.799C16.9019 19 16.4346 19 15.5 19H9.5C8.56538 19 8.09808 19 7.75 18.799C7.52197 18.6674 7.33261 18.478 7.20096 18.25C7 17.9019 7 17.4346 7 16.5Z" stroke="#1C274C" stroke-width="1.5"/>
-<path d="M3 14L3 2M3 22L3 18" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="800px"
+   height="800px"
+   viewBox="0 0 48 24"
+   fill="none"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="align-left-svgrepo-com.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3" />
+  <sodipodi:namedview
+     id="namedview3"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.71859727"
+     inkscape:cx="572.64343"
+     inkscape:cy="365.29502"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     d="m 39.206642,5.4723247 h -5.5 c -0.93462,0 -1.40192,0 -1.75,0.20096 -0.22803,0.13165 -0.41739,0.32101 -0.54904,0.54904 -0.20096,0.34808 -0.20096,0.81538 -0.20096,1.75 0,0.93462 0,1.40192 0.20096,1.75 0.13165,0.22803 0.32101,0.4173903 0.54904,0.5490403 0.34808,0.20096 0.81538,0.20096 1.75,0.20096 h 9 c 0.9346,0 1.4019,0 1.75,-0.20096 0.228,-0.13165 0.4174,-0.3210103 0.549,-0.5490403 0.201,-0.34808 0.201,-0.81538 0.201,-1.75 0,-0.93462 0,-1.40192 -0.201,-1.75 -0.1316,-0.22803 -0.321,-0.41739 -0.549,-0.54904 -0.2796,-0.16142 -0.6361,-0.19318 -1.25,-0.19943"
+     stroke="#1c274c"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path1" />
+  <path
+     d="m 31.206642,16.972325 c 0,-0.9346 0,-1.4019 0.20096,-1.75 0.13165,-0.228 0.32101,-0.4174 0.54904,-0.549 0.34808,-0.201 0.81538,-0.201 1.75,-0.201 h 6 c 0.9346,0 1.4019,0 1.75,0.201 0.228,0.1316 0.4174,0.321 0.549,0.549 0.201,0.3481 0.201,0.8154 0.201,1.75 0,0.9346 0,1.4019 -0.201,1.75 -0.1316,0.228 -0.321,0.4174 -0.549,0.549 -0.3481,0.201 -0.8154,0.201 -1.75,0.201 h -6 c -0.93462,0 -1.40192,0 -1.75,-0.201 -0.22803,-0.1316 -0.41739,-0.321 -0.54904,-0.549 -0.20096,-0.3481 -0.20096,-0.8154 -0.20096,-1.75 z"
+     stroke="#1c274c"
+     stroke-width="1.5"
+     id="path2" />
+  <path
+     d="M 27.206642,14.472325 V 2.4723247 m 0,20.0000003 v -4"
+     stroke="#1c274c"
+     stroke-width="1.5"
+     stroke-linecap="round"
+     id="path3" />
+  <rect
+     style="fill:none;stroke:#000000;stroke-dasharray:none"
+     id="qrPlaceholder"
+     width="20.073801"
+     height="20.073801"
+     x="3.7968323"
+     y="2.5041437"
+     stroke-width="0.1" />
 </svg>
