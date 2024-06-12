@@ -9,12 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
     <rect
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1"
+     style="fill:none;stroke:#000000;stroke-opacity:1"
      id="qrPlaceholder"
      width="1000"
      height="1000"
      x="50"
-     y="50" />
+     y="50"
+     stroke-width="0.1" />
   <path
      d="m 1738.7043,549.1631 h -147.1467 m 0,0 h -147.1467 m 147.1467,0 V 400.9643 m 0,148.1988 v 148.1988"
      stroke="#1c274c"
