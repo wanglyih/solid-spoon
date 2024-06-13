@@ -51,11 +51,12 @@
      fill="#1C274C"
      id="path3" />
   <rect
-     style="fill:none;stroke:#000000;stroke-dasharray:none"
+     style="stroke:#000000;stroke-dasharray:none"
      id="qrPlaceholder"
      width="20.073801"
      height="20.073801"
      x="1.9387087"
      y="23.416422"
+     fill="#32ff3b"
      stroke-width="0.1" />
 </svg>

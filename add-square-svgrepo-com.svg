@@ -47,11 +47,12 @@
      stroke-linecap="round"
      id="path2" />
   <rect
-     style="fill:none;stroke:#000000;stroke-dasharray:none"
+     style="stroke:#000000;stroke-dasharray:none"
      id="qrPlaceholder"
      width="20.073801"
      height="20.073801"
      x="-4.3837638"
      y="25.151293"
+     fill="#32ff3b" 
     stroke-width="0.10" />
 </svg>
